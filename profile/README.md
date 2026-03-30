@@ -15,9 +15,13 @@ Core Technical Expertise
 
 
 -**AI Development**: Machine Learning, Data Analytics, Natural Language Processing
+
 -**Backend Systems**: Node.js, Python, Java, Django
+
 -**Blockchain**: Ethereum, Hyperledger, Smart Contracts
+
 -**Web & Mobile Applications**: React, React Native, Vue.js
+
 -**Cloud Infrastructure**: AWS, Microsoft Azure
 
 
